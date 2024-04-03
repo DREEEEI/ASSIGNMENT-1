@@ -43,6 +43,7 @@ namespace CodeByDrei
 
                 {
                     Console.WriteLine("\n\nLogged in successfully.");
+                    return;
                 }
 
                 else
