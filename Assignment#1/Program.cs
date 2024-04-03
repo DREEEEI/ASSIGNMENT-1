@@ -85,6 +85,7 @@ namespace CodeByDrei
                         else
                         {
                             Console.WriteLine("\n\nYour account has been temporarily locked, please try again later.");
+                            Console.ReadLine();
                         }
 
                     }
